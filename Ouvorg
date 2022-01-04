@@ -1,0 +1,41 @@
+nom du paquet :  com.ouvog.lite
+ nom version : 300.0.0.11.119
+ code du version: 380724203
+  renforcement : No Reinforcement
+version minimale du SDk : 15 (Android 4.0, Ice Cream Sandwich MR1)
+version cible du SDK :30 (Android 11, R)
+uid : 10171
+ apk système: non
+apk chemin : data / , O=ouvorg Mobile, L= Guinée, ST= conakry , C= us
+ signature issuer  : CN= ouvorg Corporation, OU= ouvorg, O=ouvorg Mobile, L= Guinée, ST= conakry , C= us
+ Numéro de série de signature :  
+Nom de l'algorithme de signature : SHA256withRSA
+ Version Signature 1
+Signature valable à partir de 3 janv 2021 20:22:15
+Signature valable jusqu'au 3 janv 2060
+blocs :data/app/com.ouvorg.lite-bH_uKEOEGdHLJ56_af3sew==/split_blocs.apk
+ renforcer : data/app/com.ouvorg.lite-bH_uKEOEGdHLJ56_af3sew==/split_renforcement.apk
+camera : data/app/com.ouvorg.lite-bH_uKEOEGdHLJ56_af3sew==/split_camera.apk
+ pétiller : data/app/com.ouvorg.lite-bH_uKEOEGdHLJ56_af3sew==/split_petiller.apk
+java.com.ouvorg.inappbrowser : /data/app/com.f
+ouvorg.lite-bH_uKEOEGdHLJ56_af3sew==/split_java.com.ouvorg.lite.inappbrowser.apk                                            
+java.com.ouvorg.video.heroplayer.service
+ okhttp /data/app/com.ouvorg.lite-bH_uKEOEGdHLJ56_af3sew==/split_okhttp.apk
+optique : /data/app/com.ouvorg.lite-bH_uKEOEGdHLJ56_af3sew==/split_optique.apk
+s_bloks_java.com.ouvorg.profilo.init : /data/app/com.ouvorg.lite-bH_uKEOEGdHLJ56_af3sew==/split_s_bloks_java.com.ouvorg.profilo.init.apk
+s_bloks_msysinfra : /data/app/com.ouvorg.lite-bH_uKEOEGdHLJ56_af3sew==/split_s_bloks_msysinfra.apk
+s_camera_msysinfra : /data/app/com.ouvorg.lite-bH_uKEOEGdHLJ56_af3sew==/split_s_camerq_msysinfra.apk
+partagé.fizz.ms.profilo /data/app/com.ouvorg.lite-bH_uKEOEGdHLJ56_af3sew==/split_partagé.fizz.ms.profilo.apk
+Chemin de la bibliothèque native : /data/app/com.ouvorg.lite-bH_uKEOEGdHLJ56_af3sew==/lib/arm
+ Répertoire de données : /data/user/0/com.ouvorg.lite
+Activité principale du lanceur : com.ouvorg.lite.MainActivity
+ Classe d'application : com.ouvorg.lite.ClientApplicationSplittedShell
+Processeur principal Abi : armeabi-v7a
+ Première installation : ...
+Heure de la dernière mise à niveau : ....
+
+  Informations d'autorisation demandées 
+Informations sur l'activité
+ Informations sur le service
+Informations sur le récepteur
+Infos fournisseur
